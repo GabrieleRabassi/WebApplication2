@@ -59,7 +59,7 @@ export class LoginPage extends Component {
 
     HandlePasswordChange(event) {
 
-        this.setState({ Passwor: event.target.value });
+        this.setState({ Password: event.target.value });
     }
 
 
